@@ -310,6 +310,11 @@ header .fa-bars {
   padding-bottom: 25px;
   font-size: 20px;
 }
+.comment {
+  text-align: center;
+  padding-bottom: 10px;
+  font-size: 15px;
+}
 
 .products .box-container .box .image img {
   height: 25rem;
