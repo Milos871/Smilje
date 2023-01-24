@@ -241,12 +241,6 @@ header .fa-bars {
   text-decoration: underline;
 }
 
-.bout p {
-  font-size: 1.5rem;
-  line-height: 2;
-  color: rgb(19, 19, 19);
-}
-
 .bout ul {
   list-style: none;
 }
