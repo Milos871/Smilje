@@ -142,7 +142,21 @@ header .fa-bars {
   padding: 1rem 0;
   line-height: 1.5;
 }
-
+.valentajn {
+  text-align: center;
+  font-size: 50px;
+  color: darkred;
+  padding-bottom: 16px;
+}
+.ponuda {
+  font-size: 25px;
+  color: #1c1b1b;
+  text-align: center;
+  padding-top: 18px;
+}
+span {
+  color: darkred;
+}
 .about .row {
   display: flex;
   align-items: center;
@@ -150,6 +164,9 @@ header .fa-bars {
   flex-wrap: wrap;
   padding: 2rem 0;
   padding-bottom: 3rem;
+}
+.gift {
+  color: darkred;
 }
 
 .about .row .video-container {
@@ -228,45 +245,6 @@ header .fa-bars {
   color: #555;
   font-size: 1.3rem;
 }
-.bout span {
-  font-size: 2rem;
-  color: #252525;
-}
-
-.bout span {
-  font-size: 2rem;
-  color: #252525;
-}
-
-.bout h3 {
-  font-size: 2.7rem;
-  text-transform: uppercase;
-  color: rgb(201, 0, 124);
-  padding: 1rem 0;
-  text-decoration: underline;
-}
-
-.bout ul {
-  list-style: none;
-}
-
-.bout ul li {
-  padding-top: 1.5rem;
-  font-size: 1.7rem;
-
-  color: #252525;
-}
-.glovo {
-  text-decoration: underline;
-}
-.bout ul li i {
-  padding-right: 1rem;
-  color: #ff009d;
-}
-.bout ul li a {
-  text-decoration: none;
-  color: #252525;
-}
 .offer {
   text-align: center;
   font-size: 60px;
@@ -309,11 +287,6 @@ header .fa-bars {
   text-align: center;
   padding-bottom: 25px;
   font-size: 20px;
-}
-.comment {
-  text-align: center;
-  padding-bottom: 10px;
-  font-size: 15px;
 }
 
 .products .box-container .box .image img {
